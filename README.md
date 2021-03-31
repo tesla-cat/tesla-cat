@@ -14,3 +14,12 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+[![Linkedin Badge][Linkedin-Badge]][Linkedin-Link]
+
+![GitHub Readme Stats][ReadmeStats-Image]
+
+[Linkedin-Badge]: https://img.shields.io/badge/-@Ruiqi_Ding-%230077B5?style=flat-square&logo=linkedin&logoColor=white "Linkedin Badge"
+[Linkedin-Link]: https://www.linkedin.com/in/ruiqi-ding-285a70206 "Linkedin Link"
+
+[ReadmeStats-Image]: https://github-readme-stats.vercel.app/api?username=tesla-cat&show_icons=true&bg_color=ffffff "GitHub Readme Stats"
