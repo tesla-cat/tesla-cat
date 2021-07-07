@@ -1,25 +1,11 @@
-### Hi there 👋
+### 关于我
+- 你好，我是丁瑞奇。
+- 我来自陕西咸阳，在这里度过了小学和初中。我思考了自己为什么活着，结论是我要成为一名物理学家，探索自然，感悟宇宙。
+- 高中时我去了西安，就读于`西安高新一中`，参加了`西安交通大学`让高中生体验科研的项目。
+- 大学时我获得了新加坡全额奖学金，就读于`新加坡国立大学`。
+- 毕业后我从事了一年科研工作。
+- 时间到了**现在**，不久前我辞去了科研工作，打算成立自己的高科技公司，励志成为像偶像`埃隆马斯克`那样的人。 
 
-<!--
-**tesla-cat/tesla-cat** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
-
-[![Linkedin Badge][Linkedin-Badge]][Linkedin-Link]
-
-![GitHub Readme Stats][ReadmeStats-Image]
-
-[Linkedin-Badge]: https://img.shields.io/badge/-@Ruiqi_Ding-%230077B5?style=flat-square&logo=linkedin&logoColor=white "Linkedin Badge"
-[Linkedin-Link]: https://www.linkedin.com/in/ruiqi-ding-285a70206 "Linkedin Link"
-
-[ReadmeStats-Image]: https://github-readme-stats.vercel.app/api?username=tesla-cat&show_icons=true&bg_color=ffffff "GitHub Readme Stats"
+### 我的联系方式:
+- 微信: `RickyNotFunny`
+- qq: `416640656`
