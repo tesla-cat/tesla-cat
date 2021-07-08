@@ -16,3 +16,23 @@
 ### 我的联系方式:
 - 微信: `RickyNotFunny`
 - qq: `416640656`
+
+## English version
+
+### about me
+- Hello, this is Ding Ruiqi.
+- I come from Xianyang, Shaanxi. At a young age, I thought about why I am alive, and the conclusion was that I want to become a physicist,  to explore nature, and appreciate the beauty of the universe.
+- For highschool, I went to Xi'an to study in `Xi'an GaoXin No.1 High School`, and participated in the project from `Xi'an Jiaotong University` that enables highschool students to experience scientific research.
+- For university, I received a full scholarship from Singapore, studied at National University of Singapore, and received a Bachelor of Science with Honours (Highest distinction) degree in Physics.
+- After graduation, I worked in scientific research for a year.
+- **Now**, I want to realize my dream and get rich at the same time, I quit my research job not long ago and plan to found my own deep-tech startup, inspired by my idol Elon Musk.
+
+### File
+- [Resume](https://github.com/tesla-cat/tesla-cat.github.io/blob/master/site/files/documents/CV_Ruiqi_Ding.pdf)
+- [High School Diploma](https://github.com/tesla-cat/tesla-cat.github.io/blob/master/site/files/documents/High_school_diploma.pdf)
+- [Undergraduate Diploma](https://github.com/tesla-cat/tesla-cat.github.io/blob/master/site/files/documents/NUS_Bachelor_Degree_Scroll.pdf)
+- [Undergraduate Transcript](https://github.com/tesla-cat/tesla-cat.github.io/blob/master/site/files/documents/NUS_Bachelor_Transcript.pdf)
+- [German University of Göttingen Exchange Program Transcript](https://github.com/tesla-cat/tesla-cat.github.io/blob/master/site/files/documents/University_of_G%C3%B6ttingen_Transcript.pdf )
+
+### my contact information:
+- WhatsApp: `+65 83769935`
