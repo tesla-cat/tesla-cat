@@ -1,3 +1,6 @@
+
+**Note**: I don't have any code to share with the public, but I code a LOT, check out my contributions down below :)
+
 ### 关于我
 - 你好，我是丁瑞奇。
 - 我来自陕西咸阳，在这里度过了小学和初中。我思考了自己为什么活着，结论是我要成为一名物理学家，探索自然，感悟宇宙。
